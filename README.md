@@ -1,6 +1,6 @@
 # NLP-Project-Paws
 
-The team:
+## The team
 
 1.Anirudh Krishna Lakshmanan (alaksh19@asu.edu)
 
@@ -15,17 +15,17 @@ The team:
 
 
 
-TA:
+## TA
 
 Pratyay Banerjee <pbanerj6@asu.edu>
 
-regular meet with TA: 
+<b>regular meet with TA </b> 
 
 4:30-5:30pm.
 
 
 
-Meeting logs:
+## Meeting logs
 
 2020.02.24
 
