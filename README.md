@@ -19,6 +19,10 @@ TA:
 
 Pratyay Banerjee <pbanerj6@asu.edu>
 
+regular meet with TA: 
+
+4:30-5:30pm.
+
 
 
 Meeting logs:
