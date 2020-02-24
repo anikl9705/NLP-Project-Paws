@@ -21,6 +21,16 @@ Pratyay Banerjee <pbanerj6@asu.edu>
 
 
 
+Meeting logs:
+
+2020.02.24
+
+project: PAWS
+
+The main link: https://github.com/google-research-datasets/paws
+
+Discussed the paper: PAWS: Paraphrase Adversaries from Word Scrambling (https://arxiv.org/abs/1904.01130)
+
 
 
 Questions:
