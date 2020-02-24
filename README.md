@@ -12,6 +12,10 @@ The team:
 
 5.Xinyu Zhao (Xzhao119@asu.edu)
 
+TA:
+
+Pratyay Banerjee <pbanerj6@asu.edu>
+
 
 
 
