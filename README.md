@@ -29,7 +29,9 @@ project: PAWS
 
 The main link: https://github.com/google-research-datasets/paws
 
-Discussed the paper: PAWS: Paraphrase Adversaries from Word Scrambling (https://arxiv.org/abs/1904.01130)
+(1) Read the dataset description in the main link: PAWS-Wiki + PAWS-QQP
+(2) Discussed the paper: PAWS: Paraphrase Adversaries from Word Scrambling (https://arxiv.org/abs/1904.01130)
+(3) 
 
 
 
