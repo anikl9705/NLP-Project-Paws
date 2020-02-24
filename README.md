@@ -23,7 +23,7 @@ group project for CSE 576 Topics/Natural Language Processing
 
 Pratyay Banerjee <pbanerj6@asu.edu>
 
-<b>regular meeting with TA: 4:30-5:30pm every week </b>
+<b>regular meeting with TA: 4:30-5:30pm Wed every week </b>
 
 
 
