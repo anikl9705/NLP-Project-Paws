@@ -68,5 +68,6 @@ https://github.com/google-research-datasets/paws/blob/master/qqp_generate_data.p
 
 #### Questions prepared for TA
 
-* ...
+* How to train the BERT? 
+* How to see the changes after we feed the PAWS dataset input BERT?
 * 
