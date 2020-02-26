@@ -25,6 +25,8 @@ Pratyay Banerjee <pbanerj6@asu.edu>
 
 <b>regular meeting with TA: 4:30-5:30pm Wed every week </b>
 
+location: BYENG221 TA Lab
+
 
 
 ## Meeting Logs
