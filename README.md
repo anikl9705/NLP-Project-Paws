@@ -25,7 +25,7 @@ Pratyay Banerjee <pbanerj6@asu.edu>
 
 <b>regular meeting with TA: 4:30-5:30pm Wed every week </b>
 
-location: BYENG221 TA Lab
+location: BYENG221 TA Lab   https://www.google.com/maps/place/Brickyard+Engineering,+699+S+Mill+Ave,+Tempe,+AZ+85281/@33.4235981,-111.9417253,17z/data=!3m1!4b1!4m5!3m4!1s0x872b08d8329334d3:0x4fe12bf6b8cf1757!8m2!3d33.4235981!4d-111.9395366
 
 
 
