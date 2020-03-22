@@ -130,3 +130,12 @@ Simple Transformers — Introducing The Easiest Way To Use BERT, RoBERTa, XLNet,
 Question Answering with BERT, XLNET, XLM, and DistilBERT using Simple Transformers: https://towardsdatascience.com/question-answering-with-bert-xlnet-xlm-and-distilbert-using-simple-transformers-4d8785ee762a
 
 
+------
+### Meeting 5 
+#### Date 
+2020.03.21
+
+------
+### Meeting 6 
+#### Date 
+2020.03.22
