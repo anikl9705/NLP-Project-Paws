@@ -66,3 +66,9 @@ Zoom
 #### Date 
 2020.03.22
 Zoom
+
+------
+### Meeting 7 with TA 
+#### Date 
+2020.03.23
+Zoom
