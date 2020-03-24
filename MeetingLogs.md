@@ -72,3 +72,13 @@ Zoom
 #### Date 
 2020.03.23
 Zoom
+note:
+(1) use the model we have now as the baseline, take a look at the 
+(2) only use huggingface as the model (chose this simple one, no need to do AllanNLP)
+(3) validation part
+(4) add an analysis part of the report: TA's expectation: why the model can improve, and propose what we want to do in the next phase, two tasks such as unsupervised learning (*sorry I didn't hear clearly this part, add your notes here).
+
+
+how to search related papers:
+use key words like semantic similarity, 
+search for QQP (because QQP has the same with format with PAWS).
