@@ -18,6 +18,23 @@ group project for CSE 576 Topics/Natural Language Processing
 5.Xinyu Zhao (Xzhao119@asu.edu)
 
 
+## Getting Started
+
+The datasets are provided in data_qqp and data_PAWS_qqp folders. The model code is present in HuggingFace/HuggingFace.ipynb.
+
+Note: The code has been set up to be executed in colab. The file paths will need to be changed to accomodate running it in other systems.
+
+### Setting run parameters
+
+- The model used can be changed by changing the following block:
+
+```
+MODEL_CLASS, TOKENIZER_CLASS, PRETRAINED = (BertForSequenceClassification, BertTokenizer, 'bert-base-cased')
+```
+
+- If PAWS dataset is to be included, change the value of `PAWS_QQP` as `True`
+
+- The other model parameters such as learning rate can be changed by specifying them in the model details.
 
 ## TA
 
